@@ -1,4 +1,4 @@
-# Fibonacci
+# FizzBuzz
 Un simple "juego" que consiste en nombrar todos los numeros posibles. Peron con ciertas reglas.
 
 Reglas:
