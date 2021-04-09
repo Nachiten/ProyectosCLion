@@ -1,5 +1,5 @@
 # FizzBuzz
-Un simple "juego" que consiste en nombrar todos los numeros posibles. Peron con ciertas reglas.
+Un simple "juego" que consiste en nombrar todos los numeros posibles. Pero con ciertas reglas.
 
 Reglas:
 - Si el numero es multiplo de 3 se dice "Fizz".
